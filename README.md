@@ -1,9 +1,3 @@
-# The Adventurers Guild
-
-[![GitHub contributors](https://img.shields.io/github/contributors/LarytheLord/adventurers-guild?style=flat-square)](https://github.com/LarytheLord/adventurers-guild/graphs/contributors)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Discord](https://img.shields.io/discord/7hQYkEx5?label=Discord&logo=discord&style=flat-square)](https://discord.gg/7hQYkEx5)
-[![Website](https://img.shields.io/badge/Website-Live-blue?style=flat-square)](https://adventurersguild.vercel.app)
-
 ## Revolutionizing Computer Science Education
 
 **The Adventurers Guild** is a gamified developer marketplace that connects students and developers with real-world projects from companies and NGOs. Adventurers progress through ranks (F to S), earn XP, and get paid by completing Quests — actual development tasks commissioned by real organisations.
@@ -129,18 +123,7 @@ We welcome contributions of all skill levels! Please read our [CONTRIBUTING.md](
 
 Check out our [GitHub Issues](https://github.com/LarytheLord/adventurers-guild/issues) for tasks categorized by difficulty (F-Rank through S-Rank).
 
-## Documentation
 
-- [CONTRIBUTING.md](CONTRIBUTING.md) - Contribution guidelines
-- [docs/contributor-onboarding.md](docs/contributor-onboarding.md) - Contributor onboarding
-- [docs/ARCHITECTURE_DECISIONS.md](docs/ARCHITECTURE_DECISIONS.md) - Architecture decisions
-- [FINANCIAL_MODEL.md](FINANCIAL_MODEL.md) - Revenue model
-
-## Connect
-
-- **Discord**: [Join our Community!](https://discord.gg/7hQYkEx5)
-- **Website**: [The Adventurers Guild](https://adventurersguild.vercel.app)
-- **GitHub**: [Adventurers Guild](https://github.com/LarytheLord/adventurers-guild)
 
 ## License
 
